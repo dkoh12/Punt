@@ -1,0 +1,15 @@
+C:\Users\davidkoh\devel\punt\punt\obj\Debug\net6.0\punt.csproj.AssemblyReference.cache
+C:\Users\davidkoh\devel\punt\punt\obj\Debug\net6.0\punt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davidkoh\devel\punt\punt\obj\Debug\net6.0\punt.AssemblyInfoInputs.cache
+C:\Users\davidkoh\devel\punt\punt\obj\Debug\net6.0\punt.AssemblyInfo.cs
+C:\Users\davidkoh\devel\punt\punt\obj\Debug\net6.0\punt.csproj.CoreCompileInputs.cache
+C:\Users\davidkoh\devel\punt\punt\bin\Debug\net6.0\punt.exe
+C:\Users\davidkoh\devel\punt\punt\bin\Debug\net6.0\punt.deps.json
+C:\Users\davidkoh\devel\punt\punt\bin\Debug\net6.0\punt.runtimeconfig.json
+C:\Users\davidkoh\devel\punt\punt\bin\Debug\net6.0\punt.dll
+C:\Users\davidkoh\devel\punt\punt\bin\Debug\net6.0\punt.pdb
+C:\Users\davidkoh\devel\punt\punt\obj\Debug\net6.0\punt.dll
+C:\Users\davidkoh\devel\punt\punt\obj\Debug\net6.0\refint\punt.dll
+C:\Users\davidkoh\devel\punt\punt\obj\Debug\net6.0\punt.pdb
+C:\Users\davidkoh\devel\punt\punt\obj\Debug\net6.0\punt.genruntimeconfig.cache
+C:\Users\davidkoh\devel\punt\punt\obj\Debug\net6.0\ref\punt.dll
